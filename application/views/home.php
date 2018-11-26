@@ -90,7 +90,7 @@
 		<div class="row">
 			<div class="col-md-4 col-12">
 				<div class="card">
-	  			<img class="img-fluid" src="images/articles1.png" alt="Card image cap">
+	  			<img class="img-fluid" src="<?php echo base_url(); ?>images/articles1.png" alt="Card image cap">
 	  			<div class="card-body">
 	    		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 	  			</div>
@@ -99,7 +99,7 @@
 
 			<div class="col-md-4 col-12">
 				<div class="card">
-	  			<img class="img-fluid" src="images/articles2.png" alt="Card image cap">
+	  			<img class="img-fluid" src="<?php echo base_url(); ?>images/articles2.png" alt="Card image cap">
 	  			<div class="card-body">
 	    		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 	  			</div>
@@ -108,7 +108,7 @@
 
 			<div class="col-md-4 col-12">
 				<div class="card">
-	  			<img class="img-fluid" src="images/articles3.png" alt="Card image cap">
+	  			<img class="img-fluid" src="<?php echo base_url(); ?>images/articles3.png" alt="Card image cap">
 	  			<div class="card-body">
 	    		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 	  			</div>
@@ -129,10 +129,10 @@
 			</div>
 
 			<div class="row">
-				<img src="images/foto1.png" style="margin-left: 30px;">
-				<img src="images/foto2.png" style="margin-left: 30px;">
-				<img src="images/foto3.png" style="margin-left: 30px;">
-				<img src="images/foto4.png" style="margin-left: 30px;">
+				<img src="<?php echo base_url(); ?>images/foto1.png" style="margin-left: 30px;">
+				<img src="<?php echo base_url(); ?>images/foto2.png" style="margin-left: 30px;">
+				<img src="<?php echo base_url(); ?>images/foto3.png" style="margin-left: 30px;">
+				<img src="<?php echo base_url(); ?>images/foto4.png" style="margin-left: 30px;">
 			</div>
 
 		</div>
@@ -147,19 +147,19 @@
 			<div class="col-md-4 col-12">
 				<h3 class="maps-top"><b>PUSAT</b></h3>
 				<h6 class="maps-middle">City Resort Residence Rukan Miami Blok A No 9A. Jl Kamai Raya Outer Ring Road Cengkareng. Jakarta Barat <br>0877 8088 3777</h6>
-				<button type="button" class="btn btn-outline-primary">View map</button>
+				<button type="button" class="btn1 btn-outline-primary">View map</button>
 
 			</div>
 			<div class="col-md-4 col-12">
 				<h3 class="maps-top"><b>OUTLET BEKASI</b></h3>
 				<h6 class="maps-middle">Pondok Cikunir Indah B2 No 1. Jl Buana Raya - Jatibening. <br>Bekasi. Telp. 087881072777</h6>
-				<button type="button" class="btn btn-outline-primary" style="margin-top: 48px;">View map</button>
+				<button type="button" class="btn1 btn-outline-primary" style="margin-top: 48px;">View map</button>
 
 			</div>
 			<div class="col-md-4 col-12">
 				<h3 class="maps-top"><b>OUTLET <br>ITC PERMATA HIJAU</b></h3>
 				<h6 class="maps-middle">ITC PERMATA HIJAU <br>Lantai dasar Blok C 19 No 10 Telp: 087788374777</h6>
-				<button type="button" class="btn btn-outline-primary" style="margin-top: 8px;">View map</button>
+				<button type="button" class="btn1 btn-outline-primary" style="margin-top: 8px;">View map</button>
 
 			</div>
 		</div>

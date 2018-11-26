@@ -44,31 +44,31 @@
             <div class="col-md-8 col-12">
               <ul class="mainMenu">
                 <li>
-                  <a href="#">Home</a>
+                  <a href="home">Home</a>
                 </li>
                 <li>
-                  <a href="#">Produk</a>
+                  <a href="<?php echo base_url() ?>index.php/Product">Produk</a>
                 </li>
                 <li>
-                  <a href="#">Ukuran</a>
+                  <a href="<?php echo base_url() ?>index.php/Ukuran">Ukuran</a>
                 </li>
                 <li>
-                  <a href="#">Harga</a>
+                  <a href="<?php echo base_url() ?>index.php/Harga">Harga</a>
                 </li>
                 <li>
-                  <a href="#">Cara Pesan</a>
+                  <a href="<?php echo base_url() ?>index.php/Pesan">Cara Pesan</a>
                 </li>
                 <li>
-                  <a href="#">FAQ</a>
+                  <a href="<?php echo base_url() ?>index.php/Faq">FAQ</a>
                 </li>
                 <li>
-                  <a href="#">Outlet</a>
+                  <a href="<?php echo base_url() ?>index.php/Outlet">Outlet</a>
                 </li>
                 <li>
-                  <a href="#">Gallery</a>
+                  <a href="<?php echo base_url() ?>index.php/Gallery">Gallery</a>
                 </li>
                 <li>
-                  <a href="#">Contact Us</a>
+                  <a href="<?php echo base_url() ?>index.php/Contact">Contact Us</a>
                 </li>
               </ul>
             </div>

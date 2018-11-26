@@ -110,7 +110,7 @@ ul.mainMenu li a {
 	letter-spacing: 4px;
 }
 
-.btn {
+.btn1 {
 	color: white;
     background-color: #ffffff00;
     border-color: white;
@@ -134,8 +134,8 @@ ul.mainMenu li a {
 }
 
 .article-top {
-	text-align: center;
-	color: #1E8BC6;
+  text-align: center;
+  color: #1E8BC6;
   font-family: monospace;
   font-weight: bold;
   margin-bottom: 40px;
@@ -153,4 +153,98 @@ ul.mainMenu li a {
 
 .text-tags {
 	color: white;
+}
+
+.header-size {
+	background-color: blue;
+}
+
+#content-left {
+    float: left;
+    background: #fff;
+    width: 300px;
+    height: 630px;
+    margin: 0 15px 0 0;
+    -moz-box-shadow: 0 0 10px #999;
+    -webkit-box-shadow: 0 0 10px #999;
+    box-shadow: 0 0 10px #999;
+}
+
+.article {
+    width: 290px;
+}
+
+#content-right {
+    float: left;
+    background: #fff;
+    margin-bottom: 25px;
+}
+
+ul.domtabs {
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #0c5091;
+    width: 100%;
+}
+
+#isi {
+    padding: 10px;
+    color: #000;
+    width: 600px;
+}
+
+#content {
+    width: 990px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.more {
+	margin-bottom: 12px;
+}
+
+ul.domtabs li {
+    float: left;
+    padding: 0 0 0 0;
+    background: #0c5091;
+}
+
+ul.domtabs a {
+	padding: 10px 15px;
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    background: #0c5091;
+}
+
+.title-article {
+	background: #0c5091;
+    color: #fff;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.article a {
+	margin-bottom: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #0c5091;
+}
+
+.img-size {
+	width: 100%;
+}
+
+.size {
+	background-color: #c6e4f4;
+}
+
+.img-outlet {
+	width: 100%;
 }

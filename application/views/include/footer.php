@@ -36,7 +36,7 @@
     		</div>
 
         <div class="col-md-4 col-12">
-    			<img src="images/foto.png" class="img-fluid">
+    			<img src="<?php echo base_url() ?>images/foto.png" class="img-fluid">
     		</div>
 
         <div class="col-md-5">
