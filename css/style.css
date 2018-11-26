@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@import url("bootstrap.css");
+
+header,content,section,footer,.clearer{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+.clearer{
+	clear: both;
+	margin: 20px 0;
+}
+
+.cellpadding{
+	padding: 60px 0;
+}
+
+.section-title{
+	text-align: center;
+	color: #1E8BC6;
+}
+
+section.branch-address{
+	background: #1e8bc6;
+}
+
+.section-title h2{
+	margin-bottom: 40px;
+}
+
+.text {
+	font-size: x-large;
+    color: #1E8BC6;
+    padding: 0;
+    margin-left: 590px;
+    text-align: left;
+    height: 71px;
+    font-family: inherit;
+}
+.text-2 {
+	font-size: x-large;
+    color: #61BDEF;
+    padding: 0;
+    margin-left: 590px;
+    text-align: left;
+    height: 300px;
+    font-family: inherit;
+}
+
+ul.menu-bottom {
+	padding: 0;
+  	margin: 0;
+  	list-style: none;
+}
+
+ul.menu-bottom li a {
+  text-transform: initial;
+  font-size: 17px;
+  color: #fff;
+	margin-top: 22px;
+}
+
+ul.mainMenu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+ul.mainMenu li {
+  position: relative;
+  display: inline-block;
+}
+
+ul.mainMenu li a {
+    display: block;
+    padding: 9px;
+    text-transform: initial;
+    font-size: 17px;
+    color: #044A8D;
+	font-weight: initial;
+	margin-top: 22px;
+    }
+
+.logo {
+
+}
+
+.contact-zone .media {
+	color: #1E8BC6;
+}
+
+.articles{
+	background-color: #EFEFEF;
+}
+
+.maps-top {
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	letter-spacing: 5px;
+}
+
+.maps-middle {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: inherit;
+	letter-spacing: 4px;
+}
+
+.btn {
+	color: white;
+    background-color: #ffffff00;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.text-link {
+	color: white;
+}
+
+.link {
+	background-color: #01659C;
+}
+
+.card-body {
+	background-color: #194F7D;
+}
+
+.card-text {
+	color: white;
+}
+
+.article-top {
+	text-align: center;
+	color: #1E8BC6;
+  font-family: monospace;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.footer {
+	background-color: #01659c;
+}
+
+.footer .copyright{
+	background-color: #6dbafc;
+	text-align: center;
+	color: #fff;
+}
+
+.text-tags {
+	color: white;
+}
